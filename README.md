@@ -13,7 +13,8 @@ You can clone it if you want by getting your unique API key from the openweather
 Sometimes after getting your OpenWeatherMap API key it won't work right away
 To test if your API key is working or not copy and paste the following link to your browser
 https://api.openweathermap.org/data/2.5/weather?lat=9.0563&lon=7.4985&units=metric&appid=YOUR_API_KEY
-Then replace YOUR_API_KEY with your own API key from OpenWeatherMap
+Then replace YOUR_API_KEY with your own API key from OpenWeatherMap.
+
 NOTE: you can replace the longitude and latitude from the link above with your desired location coordinates.
 
 4. Clone the repo
