@@ -23,3 +23,9 @@ flutter pub get
 final _weatherService = WeatherService('YOUR API KEY HERE');.
 
 6.Run the App
+
+# screenshot 
+
+![Screenshot_20240902-121314](https://github.com/user-attachments/assets/491a8dcb-52e4-419d-a46b-841e3dc0e1a6)
+![Screenshot_20240902-121944](https://github.com/user-attachments/assets/d1f6b427-2572-4e3b-93e1-6f9c44696130)
+
