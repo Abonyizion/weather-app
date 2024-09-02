@@ -21,4 +21,5 @@ git clone https://github.com/Abonyizion/weather-app
 flutter pub get
 5. Navigate to lib/pages/weatherpage.dart and paste your API key to the apiKey variable
 final _weatherService = WeatherService('YOUR API KEY HERE');.
+
 6.Run the App
