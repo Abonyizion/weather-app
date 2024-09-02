@@ -14,13 +14,11 @@ Sometimes after getting your OpenWeatherMap API key it won't work right away
 To test if your API key is working or not copy and paste the following link to your browser
 https://api.openweathermap.org/data/2.5/weather?lat=9.0563&lon=7.4985&units=metric&appid=YOUR_API_KEY
 Then replace YOUR_API_KEY with your own API key from OpenWeatherMap.
-
 NOTE: you can replace the longitude and latitude from the link above with your desired location coordinates.
-
-4. Clone the repo
+3. Clone the repo
 git clone https://github.com/Abonyizion/weather-app
-5. Install all the packages by typing
+4. Install all the packages by typing
 flutter pub get
-6. Navigate to lib/pages/weatherpage.dart and paste your API key to the apiKey variable
+5. Navigate to lib/pages/weatherpage.dart and paste your API key to the apiKey variable
 final _weatherService = WeatherService('YOUR API KEY HERE');
 6.Run the App
